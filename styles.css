@@ -1,0 +1,29 @@
+body {
+    background-color: #F9E8A6
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.links-container {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    gap: 20px;
+}
+
+.page-links { 
+    color: green;
+}
+
+.croissant-photo {
+    max-width: 100%;
+    display: block;
+    border-radius: 10px;
+    margin: 30px auto;
+}
